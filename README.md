@@ -1,7 +1,5 @@
 # Synthetic-Insulator-Generalization-Framework
-# 🔌 Insulator Defect Detection under Domain Shift
-
-This repository contains the implementation of our paper:
+# 🔌 Addressing Domain Shift in Insulator Defect Data: A Generalization Framework for Cross-Domain Detection of Broken and Self-Blast Insulator Defect
 ---
 
 ## 🚀 Overview
@@ -55,12 +53,11 @@ We propose a **generalization framework** combining:
 
 We curated multiple datasets, including real-world broken/self-blast insulators and synthetic datasets from DR-Syn.  
 
-<img src="dataset_visualization.png" alt="Datasets" width="50%" />
+<img src="https://github.com/user-attachments/assets/45534202-0beb-4077-af7b-673de7268e2b" alt="dataset_visualization" width="50%" />
 
 ---
 
-## 🔍 Supplementary Materials
-<img src="https://github.com/user-attachments/assets/45534202-0beb-4077-af7b-673de7268e2b" alt="dataset_visualization" width="50%" />
+## 🔍 Feature Space Visualization
 
 <img src="https://github.com/user-attachments/assets/dc5c3b6c-3ffd-41c9-918b-8c6fa720d438" alt="DCIL_feature_maps" width="50%" />
 
