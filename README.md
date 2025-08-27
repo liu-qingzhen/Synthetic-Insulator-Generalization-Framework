@@ -7,6 +7,8 @@
 Accurate detection of insulator defects is critical for power system reliability.  
 However, existing methods suffer from **domain shift** due to limited and non-diverse training datasets.  
 
+The data used for this paper can be found in https://drive.google.com/drive/folders/1Yh-YG9vs9AHJYQaGSpnuJ03L5QGvqQGc
+
 We propose a **generalization framework** combining:
 - **DR-Syn**: Synthetic insulator defect data generation via domain randomization.  
 - **IR-IQA**: Instance-Reweighted Image Quality Assessment for robust style domain expansion.  
